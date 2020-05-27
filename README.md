@@ -1,12 +1,12 @@
-# Aqua Container Security Platform (CSP) for Amazon EKS
+# Aqua Cloud Native Security Platform (CSP) for Amazon EKS
 This document is for Aqua CSP version 4.6.20099. Before you begin, make sure you have a AWS Marketplace Subscription to the [Aqua CSP EKS offer.](https://aws.amazon.com/marketplace/pp/B07KCNBW7B)
 
 
 Aqua EKS BYOL listing enables you to add security capabilities to your existing cloud-native workloads on EKS cluster environment. Aqua replaces outdated signature-based approaches with modern controls that leverage the cloud-native principles of immutability, microservices and portability.
 
-This GitHub repo retains the helm charts for Aqua Security's AWS EKS Marketplace offering. This readme includes reference documentation regarding installation and removals while operating within AWS EKS.
+This GitHub repo contains the helm charts for Aqua Security's Amazon EKS listing in the AWS Marketplace. This readme includes reference documentation regarding installation and removals while operating within Amazon EKS.
 
-Installation is simple, as Cloud Native apps should be! There are minimal prerequisites to attend to in order to deploy Aqua CSP on AWS EKS as defined below.
+Installation is simple, as Cloud Native apps should be! There are minimal prerequisites to attend to in order to deploy Aqua CSP on Amazon EKS as defined below.
 
 >**A word about Helm**
 >
